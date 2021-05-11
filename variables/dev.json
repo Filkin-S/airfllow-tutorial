@@ -1,0 +1,5 @@
+{
+    "project": "fsp-airflow",
+    "landing_bucket": "fsp-logistics-landing-bucket",
+    "backup_bucket": "fsp-logistics-backup-bucket"
+}
