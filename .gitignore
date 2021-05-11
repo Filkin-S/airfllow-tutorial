@@ -133,3 +133,5 @@ secrets/
 logs/
 .vscode/
 airflow.db
+unittests.cfg
+airflow-webserver.pid
