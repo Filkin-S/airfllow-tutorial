@@ -35,14 +35,3 @@ with DAG(
                                  )
 
 bash_task >> python_task
-
-# bash_task.set_downstream(python_task)
-
-# op1 >> op2 >> op3 >> op4
-
-# chain(op1, op2, op3, op4)
-
-# cross_downstream([op1, op2], [op3, op4])
-
-# [op1, op2] >> op3
-# [op1, op2] >> op4
